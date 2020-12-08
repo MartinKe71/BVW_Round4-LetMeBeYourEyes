@@ -11,4 +11,4 @@ Player would picture a fantasy world to bring light and color back to a blind li
 
 
 ## Click the image to watch the full gameplay video!
-[![Watch the video](https://img.youtube.com/vi/l2c_MIU5I2c/maxresdefault.jpg)](https://youtu.be/l2c_MIU5I2c)
+[![Watch the video](Images/cover.png)](https://youtu.be/l2c_MIU5I2c)
