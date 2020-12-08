@@ -7,7 +7,8 @@ Player would picture a fantasy world to bring light and color back to a blind li
 ## My contribution to this project
 #### Wrote Geomtry Shader to render flowers at runtime
 ![](Images/flowers.gif)
-#### Cooperated with another programmer in the teamt to debug VR control
+#### Cooperated with another programmer in the team to debug VR control
+#### Helped the solo artist in the team by writing shaders, including water, skybox, etc
 
 
 ## Click the image to watch the full gameplay video!
