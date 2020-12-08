@@ -1,6 +1,6 @@
 # BVW_Round4: LetMeBeYourEyes
 
-This is a two-week project I made for BVW course at CMU ETC. It is a VR project and was developed on Oculus Rift.
+This is a two-week project I made for BVW course at CMU ETC. It is a VR project and was developed on Oculus Rift. The theme of this project is story-telling.
 
 Player would picture a fantasy world to bring light and color back to a blind little girl in the last minutes of your life.
 
